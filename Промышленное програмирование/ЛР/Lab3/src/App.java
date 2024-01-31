@@ -1,9 +1,12 @@
+import java.util.ArrayList;
+
 public class App 
 {
     public static void main(String[] args) 
     {
         task1();    
         task2();
+        task3();
     }
 
     /**
@@ -86,5 +89,47 @@ public class App
         Polynom sum = Polynom.sumPolynomals(polynoms);
 
         System.out.println("Сумма полиномов: " + sum.toString());
+    }
+
+    /**
+     * Определить класс Прямая на плоскости (в пространстве), 
+     * параметры которой задаются с помощью Рациональной Дроби. 
+     * Определить точки пересечения прямой с осями координат. 
+     * Определить координаты пересечения двух прямых. 
+     * Создать массив/список/множество объектов и определить группы параллельных прямых. 
+     */
+    public static void task3()
+    {
+        Line[] lines = {
+            new Line(2f, 5f),
+            new Line(-1f, 1f),
+            new Line(1f, 1f),
+            new Line(1f, 3f),
+            new Line(1f, 5f),
+            new Line(2f, 7f),
+            new Line(3f, 9f),
+            new Line(2f, 10f),
+        };
+
+        float[] xIntersect = lines[0].getXAxisIntersect();
+        float[] yIntersect = lines[0].getYAxisIntersect();
+        System.out.println("Координаты точки пересечения прямой с осями координат: ");
+        System.out.println("X: " + xIntersect[0] + " Y: " + xIntersect[1]);
+        System.out.println("X: " + yIntersect[0] + " Y: " + yIntersect[1]);
+
+        float[] intersect = Line.getIntersect(lines[0], lines[1]);
+        System.out.println("Координаты пересечения двух прямых: ");
+        System.out.println("X: " + intersect[0] + " Y: " + intersect[1]);
+
+        ArrayList<ArrayList<Line>> parallelLines = Line.getParallelLines(lines);
+        System.out.println("\nГруппы параллельных прямых: ");
+        
+        for (int i = 0; i < parallelLines.size(); i++)
+        {
+            String stringAnswer = "\nГруппа " + (i + 1) + ":";
+            for (int j = 0; j < parallelLines.get(i).size(); j++)
+                stringAnswer += "\n" + parallelLines.get(i).get(j);
+            System.out.println(stringAnswer);
+        }
     }
 }
