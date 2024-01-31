@@ -1,0 +1,53 @@
+package lab;
+
+import java.util.Scanner;
+
+public class lab1 {
+    // Ввести пароль из командной строки и сравнить его со строкой-образцом.
+    public static void main(String[] args){
+        pass();
+        MaxMin();
+    }
+    public static void pass(){
+        String password = "245EVM";
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите пароль: ");
+        String Conspassword = scanner.next();
+        if(password == Conspassword){
+            System.out.println("Пароль введен верно!");
+        }
+        else {
+            System.out.println("Неверный пароль");
+        }
+    }
+    //Ввести с консоли n целых чисел. На консоль вывести: Наибольшее и наименьшее число.
+    public static void MaxMin(){
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Введите количество чисел: ");
+        int n = scanner.nextInt();
+
+        int[] numbers = new int[n];
+
+        System.out.println("Введите числа:");
+        for (int i = 0; i < n; i++) {
+            numbers[i] = scanner.nextInt();
+        }
+
+        int min = numbers[0];
+        int max = numbers[0];
+
+        for (int i = 1; i < n; i++) {
+            if (numbers[i] < min) {
+                min = numbers[i];
+            }
+
+            if (numbers[i] > max) {
+                max = numbers[i];
+            }
+        }
+
+        System.out.println("Наименьшее число: " + min);
+        System.out.println("Наибольшее число: " + max);
+    }
+}
