@@ -1,7 +1,6 @@
 """Работа над директориями."""
 
 import os
-from docx import Document
 
 
 disciplines: dict = {
@@ -17,19 +16,23 @@ disciplines: dict = {
 }
 
 sub_dirs: list = ["ЛР", "ПР", "МУ"]
+def init_folders():
+    for discipline in disciplines.values():
+        if not os.path.exists(discipline):
+            os.mkdir(discipline)
+        for sub in sub_dirs:
+            if not os.path.exists(
+                os.path.join(discipline, sub)):
+                os.mkdir(os.path.join(discipline, sub))
+                if sub not in ('МУ', 'Конспекты'):
+                    os.mkdir('{}/Отчеты'.format(os.path.join(discipline, sub)))
+            if sub == "ЛР":
+                for index in range(1, 13):
+                    os.system(f'cp ".assets/otchet.docx" "{discipline}/{sub}/Отчеты/ЛР-{index}.docx"')
+            if sub == "ПР":
+                for index in range(1, 13):
+                    os.system(f'cp ".assets/otchet.docx" "{discipline}/{sub}/Отчеты/ПР-{index}.docx"')
 
-for discipline in disciplines.values():
-    if not os.path.exists(discipline):
-        os.mkdir(discipline)
-    for sub in sub_dirs:
-        if not os.path.exists(
-            os.path.join(discipline, sub)):
-            os.mkdir(os.path.join(discipline, sub))
-            if sub not in ('МУ', 'Конспекты'):
-                os.mkdir('{}/Отчеты'.format(os.path.join(discipline, sub)))
-        if sub == "ЛР":
-            for index in range(1, 13):
-                os.system(f'cp ".assets/otchet.docx" "{discipline}/{sub}/Отчеты/ЛР-{index}.docx"')
-        if sub == "ПР":
-            for index in range(1, 13):
-                os.system(f'cp ".assets/otchet.docx" "{discipline}/{sub}/Отчеты/ПР-{index}.docx"')
+def init_konsp():
+    for discipline in disciplines.keys():
+        os.system(f'cp ".assets/konsp.pages" "{disciplines[discipline]}/Конспекты ({discipline}).pages"')
