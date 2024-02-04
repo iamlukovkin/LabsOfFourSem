@@ -10,11 +10,6 @@ import  engine.Vehicle;
  */
 public class App
 {
-    /**
-     * The main function for initializing and performing actions on different types of vehicles.
-     *
-     * @param  args    the command-line arguments
-     */
     public static void main(String[] args)
     {
         Auto bmw = new Auto("эв245м", "BMW", "X8", "LALALA101", "Бастрычкин А.С.", "V8 Engine");
