@@ -4,90 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae954c9e-7d87-419c-95b5-d20865c4263f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЛР/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/МУ/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/МУ/Основы_промышленной_разработки_программного_обеспечения_Часть_1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/МУ/Основы_промышленной_разработки_программного_обеспечения_Часть_2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ПР/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Patient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Polynom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Line.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Patient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Polynom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Place.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Area.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/City.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Place.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Region.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/dictionaries/ivanlukovkin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/Lab5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/engine/Vechile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/engine/VechileActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Motorcycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Quadrocycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Scooter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/engine/VechileActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/engine/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Motorcycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Quadrocycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Scooter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/engine/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/engine/VehilcleActions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Auto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Bicycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Motorcycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Quadrocycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Scooter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/Lab6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №1.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №10.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/МУ/ПП_Лабораторная_работа_№11.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №2.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №3.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №4.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №5.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №6.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №7.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №8.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №9.doc" beforeDir="false" />
-    </list>
+    <list default="true" id="ae954c9e-7d87-419c-95b5-d20865c4263f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707143742054</updated>
-      <workItem from="1707143743467" duration="1240000" />
+      <workItem from="1707143743467" duration="1339000" />
     </task>
     <servers />
   </component>
