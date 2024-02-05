@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae954c9e-7d87-419c-95b5-d20865c4263f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЛР/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/МУ/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/МУ/Основы_промышленной_разработки_программного_обеспечения_Часть_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/МУ/Основы_промышленной_разработки_программного_обеспечения_Часть_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ПР/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Patient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/bin/Polynom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab3/src/Polynom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Place.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/bin/Statement/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Place.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab4/src/Statement/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/dictionaries/ivanlukovkin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/Lab5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/engine/Vechile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/engine/VechileActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Quadrocycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/bin/vechiles/Scooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/engine/VechileActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/engine/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Quadrocycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/out/production/Lab5/vehicles/Scooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/engine/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/engine/VehilcleActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Quadrocycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab5/src/vehicles/Scooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/Lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЛР/Lab6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №1.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №10.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/МУ/ПП_Лабораторная_работа_№11.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №2.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №3.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №4.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №5.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №6.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №7.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №8.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/МУ/ПП Лабораторная работа №9.doc" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bx59yNSuUiWYPL5E18fa9z8ABZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ivanlukovkin/Documents/Programming/LabsOfFourSem/Промышленное програмирование/ПР",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown",
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ПР" />
+      <recent name="$PROJECT_DIR$/МУ" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/МУ" />
+      <recent name="$PROJECT_DIR$/ЛР" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae954c9e-7d87-419c-95b5-d20865c4263f" name="Changes" comment="" />
+      <created>1707143742054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707143742054</updated>
+      <workItem from="1707143743467" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
